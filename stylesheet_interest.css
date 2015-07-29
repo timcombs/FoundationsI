@@ -1,0 +1,26 @@
+p {
+	color: blue;
+	font-size: 24;
+	font-family: Verdana, sans-serif;
+}
+
+h1 {
+	color: maroon;
+	font-family: Verdana, sans-serif;
+}
+
+img {
+	border: 5px solid darkmagenta;
+	border-radius: 15px;
+	max-width: 575px;
+}
+
+body {
+	background-color: violet;
+}
+
+a {
+	text-decoration: none;
+	color: red;
+	background-color: maroon;
+}
